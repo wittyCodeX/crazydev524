@@ -13,9 +13,8 @@ Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Projec
     <a href="https://github.com/crazydev524/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jonathan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=crazydev524&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazydev524&theme=great-gatsby&layout=compact)](https://github.com/crazydev524)
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazydev524&theme=great-gatsby&layout=compact)](https://github.com/crazydev524)
 
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
