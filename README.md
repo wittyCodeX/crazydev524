@@ -15,7 +15,6 @@ Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Projec
     </a>
 </p>
 
-![Tnoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazydev524&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazydev524&theme=great-gatsby&layout=compact)](https://github.com/crazydev524)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
