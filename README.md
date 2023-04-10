@@ -1,4 +1,3 @@
-<p align="center"><img width="30%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb55d815-d14e-45d3-abc4-efe556e169d0/d9jxcng-9117f251-497c-450b-bf6b-e31883c73632.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JiNTVkODE1LWQxNGUtNDVkMy1hYmM0LWVmZTU1NmUxNjlkMFwvZDlqeGNuZy05MTE3ZjI1MS00OTdjLTQ1MGItYmY2Yi1lMzE4ODNjNzM2MzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DNEkUCmCy9hqGkwHXFAc08w8XSVHJnsITQqgCVmOu3g" height="150px"/></p>
 <h1 align="center">Hi 👋</h1>
 
 Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Project Manager. I am a tech enthusiast & a self learner.
@@ -75,6 +74,3 @@ Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Projec
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
-    
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
