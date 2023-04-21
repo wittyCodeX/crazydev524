@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="left">Hi 👋 There</h1>
 
 Blockchain Lead witb 7 years of proven experiences, Full Stack Developer, Project Manager. I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Kotlin**
+- 🌱 I’m currently learning **Data Analysis, Machine Learning**
 - 👯 I’m looking to collaborate on **Web Development Related Projects**
 - 🤔 I’m looking for help with **BLOCKCHAIN, WEB**
-
-<p align="center">
-    <a href="https://github.com/crazydev524/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jonathan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=crazydev524&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 </br>
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
